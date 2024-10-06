@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[portfolio]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>portfolio</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 06 Oct 2024 16:11:00 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 06 Oct 2024 16:11:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[About Me]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[portfolio]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>portfolio</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 06 Oct 2024 17:52:19 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 06 Oct 2024 17:52:18 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[About Me]]></title><description><![CDATA[ 
  <br><br>I'm a full-stack developer with experience in JavaScript, React, and Node.js. I love solving problems and automating processes.<br>
-<br><a class="internal-link" data-href="Home.md" href="home.html" target="_self" rel="noopener">Back to Home</a>
-]]></description><link>aboutme.html</link><guid isPermaLink="false">AboutMe.md</guid><pubDate>Sun, 06 Oct 2024 15:33:23 GMT</pubDate></item><item><title><![CDATA[Contact]]></title><description><![CDATA[ 
+<br><a class="internal-link" data-href="index.md" href="index.html" target="_self" rel="noopener">Back to Home</a>
+]]></description><link>aboutme.html</link><guid isPermaLink="false">AboutMe.md</guid><pubDate>Sun, 06 Oct 2024 17:29:50 GMT</pubDate></item><item><title><![CDATA[Contact]]></title><description><![CDATA[ 
  <br>Feel free to reach out to me at <a data-tooltip-position="top" aria-label="mailto:your.email@example.com" rel="noopener" class="external-link" href="mailto:your.email@example.com" target="_blank">your.email@example.com</a> or connect with me on <a data-tooltip-position="top" aria-label="https://linkedin.com/in/yourprofile" rel="noopener" class="external-link" href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>.<br>
-<br><a class="internal-link" data-href="Home.md" href="home.html" target="_self" rel="noopener">Back to Home</a>
-]]></description><link>contact.html</link><guid isPermaLink="false">Contact.md</guid><pubDate>Sun, 06 Oct 2024 15:40:50 GMT</pubDate></item><item><title><![CDATA[Welcome to My Portfolio]]></title><description><![CDATA[ 
+<br><a class="internal-link" data-href="index.md" href="index.html" target="_self" rel="noopener">Back to Home</a>
+]]></description><link>contact.html</link><guid isPermaLink="false">Contact.md</guid><pubDate>Sun, 06 Oct 2024 17:29:50 GMT</pubDate></item><item><title><![CDATA[Welcome to My Portfolio]]></title><description><![CDATA[ 
  <br><br>Hi, I'm [Vinayak Chittora], a software developer passionate about building web applications.<br>
 <br><a class="internal-link" data-href="AboutMe.md" href="aboutme.html" target="_self" rel="noopener">About Me</a>
 <br><a class="internal-link" data-href="Projects.md" href="projects.html" target="_self" rel="noopener">Projects</a>
 <br><a class="internal-link" data-href="Contact.md" href="contact.html" target="_self" rel="noopener">Contact</a>
-]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Sun, 06 Oct 2024 06:27:28 GMT</pubDate></item><item><title><![CDATA[Projects]]></title><description><![CDATA[ 
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 06 Oct 2024 17:46:46 GMT</pubDate></item><item><title><![CDATA[Projects]]></title><description><![CDATA[ 
  <br><br>Here are some of my projects:<br>
 <br>Project 1: Description of the first project. <a data-tooltip-position="top" aria-label="https://github.com/yourusername/project1" rel="noopener" class="external-link" href="https://github.com/yourusername/project1" target="_blank">View More</a>
 <br>Project 2: Description of the second project. <a data-tooltip-position="top" aria-label="https://github.com/yourusername/project2" rel="noopener" class="external-link" href="https://github.com/yourusername/project2" target="_blank">View More</a>
 <br>
-<br><a class="internal-link" data-href="Home.md" href="home.html" target="_self" rel="noopener">Back to Home</a>
-]]></description><link>projects.html</link><guid isPermaLink="false">Projects.md</guid><pubDate>Sun, 06 Oct 2024 06:33:32 GMT</pubDate></item></channel></rss>
+<br><a class="internal-link" data-href="index.md" href="index.html" target="_self" rel="noopener">Back to Home</a>
+]]></description><link>projects.html</link><guid isPermaLink="false">Projects.md</guid><pubDate>Sun, 06 Oct 2024 17:29:50 GMT</pubDate></item></channel></rss>
